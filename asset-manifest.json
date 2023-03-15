@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/20230221-react07-cedric-rc07-nba-legends/static/css/main.b8038414.css",
+    "main.js": "/20230221-react07-cedric-rc07-nba-legends/static/js/main.b5cc4735.js",
+    "index.html": "/20230221-react07-cedric-rc07-nba-legends/index.html",
+    "main.b8038414.css.map": "/20230221-react07-cedric-rc07-nba-legends/static/css/main.b8038414.css.map",
+    "main.b5cc4735.js.map": "/20230221-react07-cedric-rc07-nba-legends/static/js/main.b5cc4735.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8038414.css",
+    "static/js/main.b5cc4735.js"
+  ]
+}
